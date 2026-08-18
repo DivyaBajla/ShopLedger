@@ -1,0 +1,5 @@
+date,description,reference,debit,credit
+2026-08-02,Hotel ABC payment,ABC-7000,0,7000
+2026-08-03,Chicken supplier payment,SUP-10000,10000,0
+2026-08-04,Electricity bill,ELEC-2000,2000,0
+2026-08-05,Hotel XYZ payment,XYZ-5000,0,5000
